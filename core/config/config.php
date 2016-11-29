@@ -9,10 +9,10 @@ return [
         ],
         "db"=>[
             'driver' => 'mysql',
-            'host' => 'mysql.zzz.com.ua',
-            'database' => 'andrianpony',
-            'username' => 'KayafasKain',
-            'password' => 'TAVRIA8899',
+            'host' => '',
+            'database' => '',
+            'username' => '',
+            'password' => '',
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix' => ''
