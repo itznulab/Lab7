@@ -1,6 +1,8 @@
 <?php
 return [
     "SiteName" => "Sttest1.zzz.com.ua",
+    "AuthorName" => "Vorobiov Kostyantin",
+    "ControllersAction" => "Default action",
     "DefaultRoute" => "site/index",
     "components" => [
         "twig" => [
