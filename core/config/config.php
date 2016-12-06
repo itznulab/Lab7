@@ -1,6 +1,6 @@
 <?php
 return [
-    "SiteName" => "My simple mvc framework",
+    "SiteName" => "Sttest1.zzz.com.ua",
     "DefaultRoute" => "site/index",
     "components" => [
         "twig" => [
