@@ -154,6 +154,15 @@ class Core {
     public function getSiteName() {
         return $this->config["SiteName"];
     }
+    
+      public function getAutorName() {
+        return $this->config["AuthorName"];
+    }
+    
+      public function getControllerAction() {
+        return $this->config["DefaultAction"];
+    }
+    
 
     public function log($error_msg) {
         trigger_error($error_msg, E_USER_ERROR);
